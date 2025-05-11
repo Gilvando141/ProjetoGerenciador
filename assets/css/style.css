@@ -41,6 +41,9 @@ body {
     border-radius: 5px;
     cursor: pointer;
   }
-  
+  .botao button:hover {
+    background: #00b31e;
+    transform: translate(1);
+  }
 
   
