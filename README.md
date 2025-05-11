@@ -21,3 +21,6 @@ Tecnologia Utilizada
    git clone https://github.com/Gilvando141/ProjetoGerenciador
 
 
+🧑‍💻 Autor
+Desenvolvido por GIlvando Alves
+https://www.linkedin.com/in/gilvando-a-12857a13a/
